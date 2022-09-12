@@ -1,0 +1,17 @@
+main {
+    flex-direction: column;
+}
+
+.contact {
+    display: flex;
+    align-items: center;
+    font-size: 1.3rem;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #1E212D;
+    white-space: nowrap;
+}
+
+.contact-link {
+    text-decoration: none;
+    color: #1E212D;
+}
